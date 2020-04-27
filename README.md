@@ -5,7 +5,7 @@ Board Game built using React.js and class componenets.
 ## Short demo:
 
 <p align ="center">
-<img src="./hangman.gif" alt="Hangman Game app example">
+<img src="./lightsout.gif" alt="Lights Out Game example">
 </p>
 
 ## Installation
